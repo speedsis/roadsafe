@@ -1,0 +1,43 @@
+{
+  "Ems": {
+    "emsFd": "EMS/FD",
+    "createMedicalRecord": "Criar Registro Médico",
+    "searchMedicalRecord": "Pesquisar Registro Médico",
+    "activeDeputies": "Primeiros Socorros EMS/FD",
+    "selectDeputy": "Selecionar Socorrista",
+    "deputy": "Socorrista",
+    "myDeputies": "Meus Socorristas EMS/FD",
+    "createDeputy": "Criar Socorrista",
+    "editDeputy": "Editar Socorrista",
+    "deputyName": "Nome do Socorrista",
+    "deleteDeputy": "Excluir Socorrista",
+    "noDeputies": "Você não tem nenhum Socorrista EMS/FD",
+    "noActiveDeputies": "Não há Socorristas EMS/FD ativos",
+    "citizenNoMedicalRecords": "Este cidadão não possui registros médicos.",
+    "activeDeputy": "Socorrista Ativo",
+    "declareDead": "Declarar morto",
+    "declareAlive": "Declarar vivo",
+    "myDeputyLogs": "Meus registros de Socorrista",
+    "emergencyVehicle": "Veículo de Emergência",
+    "alert_deleteDeputy": "Tem certeza de que deseja excluir <span>{deputy}</span>? Esta ação não pode ser desfeita.",
+    "assignedToCall#": "{activeVehicle}, responder para {location}",
+    "assignedToCall#WithType": "{activeVehicle}, responder para {location}, {callType}",
+    "emsFdIncidents": "Incidentes EMS/FD",
+    "createDoctorVisit": "Criar Visita Médica",
+    "doctorVisits": "Visitas Médicas",
+    "medicalRecords": "Registros Médicos",
+    "medications": "Medicação",
+    "diagnosis": "Diagnóstico",
+    "conditions": "Condições",
+    "add": "Adicionar",
+    "noDoctorVisits": "Este cidadão não possui visitas médicas."
+  },
+  "HospitalServices": {
+    "hospitalServices": "Serviços Hospitalares",
+    "declareAlive": "Declarar vivo",
+    "noDeadCitizens": "Não há cidadãos marcados como mortos.",
+    "alert_declareAlive": "Tem certeza de que deseja declarar <span>{citizen}</span> vivo? Apenas usuários com permissões de 'Declarar Cidadão Morto' ou o proprietário do cidadão podem marcar este cidadão como morto.",
+    "citizenDeclaredAlive": "Cidadão Declarado Vivo",
+    "citizenDeclaredAliveMessage": "Cidadão declarado vivo com sucesso."
+  }
+}
